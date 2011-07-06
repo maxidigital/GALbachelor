@@ -1,0 +1,9 @@
+Manifest-Version: 1
+Bundle-Version: 1.0.0.SNAPSHOT
+Bundle-Name: org.gal.utils
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.gal.utils
+Import-Package: org.osgi.framework,org.osgi.util.tracker
+Export-Package: 
+
+

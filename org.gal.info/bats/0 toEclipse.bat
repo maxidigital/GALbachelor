@@ -1,0 +1,2 @@
+cd..
+mvn  pax:eclipse

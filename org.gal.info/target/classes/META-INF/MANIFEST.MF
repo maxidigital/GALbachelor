@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Export-Package: org.gal.info;version="1.0.0.SNAPSHOT"
+Private-Package: org.gal.info.internal
+Ignore-Package: org.gal.info.internal
+Built-By: maxi
+Tool: Bnd-0.0.255
+Bundle-Name: org.gal.info
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.6.0_21
+Bundle-Version: 1.0.0.SNAPSHOT
+Bnd-LastModified: 1309877868938
+Bundle-ManifestVersion: 2
+Bundle-Activator: org.gal.info.internal.Activator
+Import-Package: org.gal.info;version="1.0.0.SNAPSHOT",org.osgi.framewo
+ rk;version="1.2"
+Bundle-SymbolicName: org.gal.info
+
